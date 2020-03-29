@@ -1,0 +1,15 @@
+{
+  "useConfigFiles": true,
+  "plugins": {
+    "@vue/cli-plugin-typescript": {
+      "classComponent": true
+    },
+    "vue-cli-plugin-pug": {},
+    "vue-cli-plugin-pug-template": {},
+    "@vue/cli-plugin-unit-jest": {},
+    "@vue/cli-plugin-e2e-cypress": {},
+    "@yoko0180/firebase": {}
+  },
+  "vuex": true,
+  "cssPreprocessor": "stylus"
+}
