@@ -8,7 +8,7 @@
     "vue-cli-plugin-pug-template": {},
     "@vue/cli-plugin-unit-jest": {},
     "@vue/cli-plugin-e2e-cypress": {},
-    "@yoko0180/firebase": {}
+    "@yoko0180/vue-cli-plugin-firebase": {}
   },
   "vuex": true,
   "cssPreprocessor": "stylus"
